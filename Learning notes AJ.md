@@ -14,7 +14,7 @@ Then the function gives domain related details, that the agent can refer to.
 And, then we run the agent, and it gives response, and does some actions.
 
 
-Lesson 5: Agentic RAG.
+## Lesson 5: Agentic RAG.
 Where (LLMs) autonomously plan their next steps while pulling information from external sources.
 Iterative calls to the LLM, makes corrections, tries better methods.
 System's ability to own its reasoning process, making decisions on how to approach problems without relying on pre-defined paths.
