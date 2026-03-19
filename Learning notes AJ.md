@@ -21,3 +21,13 @@ System's ability to own its reasoning process, making decisions on how to approa
 All of these steps—refining queries, choosing sources, iterating until “happy” with the answer—are decided by the model, not pre-scripted by a human
 
 To do: Additioanl resources from lesson 5 readme file.
+
+
+## Lesson 6: Building Trustworthy agents
+Possible threats:
+a. Attachkers can change the role / instructions of the Agents.
+b. Access to critical systems: If the Agent has access to crucial / sensitive data, attackers can use multiple prompts to get that info. 
+We can limit the number of requests per user, to avoid this.
+c. Attackers can poison the knowledge base. So, the Agent will mal-function.
+d. have a 'human-in-the-loop'
+For giving feedback regularly.
