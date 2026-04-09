@@ -31,3 +31,21 @@ We can limit the number of requests per user, to avoid this.
 c. Attackers can poison the knowledge base. So, the Agent will mal-function.
 d. have a 'human-in-the-loop'
 For giving feedback regularly.
+
+
+## Leson 7: About planning the design, sub-agent design etc.
+As such, it gives a nice project to implement; though the code might be incomplete.
+
+** Lesson 8: Multi-agent (Good theory)
+Why multi-agents required:
+a) Large workloads --> for scalability, you will divide the load.
+b) Complextiy --> to simplyfy the activity, to avoid complications / failures
+c) Specialization / expertise: Making each agent focused on one type of thing
+d) Successive tasks: better to divide the tasks periodically
+e) Fault tolerance: If one agent fails, other should continue, ensuring system reliability.
+
+Imp thing here, is to ensure all agents are communicating with each other.
+Agents need to coordinate their actions.
+Need to have Visibility into Multi-Agent Interaction. This means that you need to have tools and techniques for tracking agent activities and interactions. This could be in the form of logging and monitoring tools, visualization tools, and performance metrics.
+
+aa
